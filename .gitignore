@@ -1,0 +1,6 @@
+package.json
+/public
+.git
+.gitignorepackage-lock.json
+node_modules
+.eslintcache
