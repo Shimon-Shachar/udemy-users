@@ -1,7 +1,6 @@
-package.json
-/public
 .git
 .gitignore
-package-lock.json
-node_modules
 .eslintcache
+node_modules
+.DS_Store
+
